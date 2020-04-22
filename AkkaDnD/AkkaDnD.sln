@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AkkaDnD", "AkkaDnD.csproj", "{EADC3D5A-1EB5-4CE7-B91D-F554FDEA6D62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkkaDnD.Tests", "..\AkkaDnD.Tests\AkkaDnD.Tests.csproj", "{0F3D31D1-C5C7-4D8C-AEB3-9FC208A12DDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EADC3D5A-1EB5-4CE7-B91D-F554FDEA6D62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EADC3D5A-1EB5-4CE7-B91D-F554FDEA6D62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EADC3D5A-1EB5-4CE7-B91D-F554FDEA6D62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EADC3D5A-1EB5-4CE7-B91D-F554FDEA6D62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F3D31D1-C5C7-4D8C-AEB3-9FC208A12DDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F3D31D1-C5C7-4D8C-AEB3-9FC208A12DDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F3D31D1-C5C7-4D8C-AEB3-9FC208A12DDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F3D31D1-C5C7-4D8C-AEB3-9FC208A12DDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D369FEF6-CB72-4FD2-ABA2-7CC6209D561E}
+	EndGlobalSection
+EndGlobal
